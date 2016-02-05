@@ -1,0 +1,8 @@
+1
+Q(Bob)
+4
+B(John,Bob)
+D(x,y) ^ Q(y) => C(x,y)
+D(John,Alice)
+Q(Bob)
+
